@@ -1,2 +1,7 @@
 this is line 1.
 this is line 2.
+hello
+git init
+git status
+git add -A
+git status
